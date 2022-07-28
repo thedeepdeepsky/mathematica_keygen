@@ -125,7 +125,7 @@ bool checkact(string actkey)
 		if (actkey[i] > '9' || actkey[i] < '0') return 0;
 	}
 	if (actkey[9] != '-') return 0;
-	for (int i = 10; i < 16; i += 2)
+	for (int i = 10; i < 16; i ++)
 	{
 		if (actkey[i] > '9' || actkey[i] < '0') return 0;
 	}
@@ -145,10 +145,9 @@ string genact()
 		actkey.push_back('0' + rand() % 10);
 	}
 	actkey.push_back('-');
-	for (int i = 10; i < 16; i += 2)
+	for (int i = 10; i < 16; i ++)
 	{
 		actkey.push_back('0' + rand() % 10);
-		actkey.push_back('A' + rand() % 26);
 	}
 	return actkey;
 }
