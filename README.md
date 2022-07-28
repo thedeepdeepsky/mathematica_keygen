@@ -1,6 +1,6 @@
 # mathematica_keygen
 This is improved based on mathematica keygen.
-You can use your own key to activate,and it ha full tutorial inside
+You can use your own key to activate,and it has full tutorial inside
 It also includes systemmodeler keygen.
 It's available for any version of mathematica and system modeler.
 I will include the magic numbers here.
