@@ -79,7 +79,7 @@ string genFromMathId(string mathId, string activationKey,int magicnumber) {
 //6469-027-086::1
 void mmagen(string mathId = "", string activationKey = "")
 {
-	int magicNumbers[] = { 10690, 12251, 17649, 24816, 33360, 35944, 36412, 42041, 42635, 44011, 53799, 56181, 58536, 59222, 61041 };
+	int magicNumbers[] = { 36412,24816,44011,33360,35944,59222};
 	for (int i = 0; i < 15; i++)
 	{
 		cout << genFromMathId(mathId, activationKey, magicNumbers[i]) << endl;
@@ -87,7 +87,7 @@ void mmagen(string mathId = "", string activationKey = "")
 }
 void systemmodelergen(string mathId = "", string activationKey = "")
 {
-	int magicNumbers[] = { 4912, 4961, 22384, 24968, 30046, 31889, 42446, 43787, 48967, 61182, 62774 };
+	int magicNumbers[] = { 48967,4912,62774,42446,30046,4961,61182,31889,22384 };
 	for (int i = 0; i < 11; i++)
 	{
 		cout << genFromMathId(mathId, activationKey, magicNumbers[i]) << endl;
