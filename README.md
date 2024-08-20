@@ -2,6 +2,8 @@
 
 # Sorry for your inconvenience,this code (and exe) is no longer applicable for wolfram 14.1+. I will get the newest one soon.
 
+for the newest one,it seems that wolfram research changed its keygen method...
+
 ## Recommend:Close your internet while using this
 
 This is improved based on mathematica keygen.
