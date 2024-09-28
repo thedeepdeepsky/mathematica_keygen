@@ -1,6 +1,6 @@
 # mathematica_keygen
 
-# This code (and exe) is no longer applicable for wolfram 14.1+. For wolfram 14.1 use WolframOne141KG_.exe 
+# For wolfram 14.1 use WolframOne141KG_.exe 
 
 password : sanet.st
 
