@@ -6,6 +6,9 @@ password : sanet.st
 
 for the newest one,it seems that wolfram research changed its keygen method...
 
+![image](https://github.com/user-attachments/assets/739c99dc-c656-42f3-93d5-3b5aaaee7fcd)
+
+
 ## Recommend:Close your internet while using this(for older ver.)
 
 This is improved based on mathematica keygen.
