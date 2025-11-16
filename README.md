@@ -1,6 +1,8 @@
 # mathematica_keygen
 
-# For wolfram 14.1 use WolframOne141KG_.exe 
+# For wolfram 14.1 use WolframOne141KG_.exe (14.2,14.3 not supported right now(a small change in their activation method))
+
+# For 14.2,14.3 they can't be infinitely activated,but you can set an infinite date(9999/9/9)
 
 password : sanet.st
 
