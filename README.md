@@ -2,6 +2,14 @@
 
 Notice: For 14.2,14.3 they can't be infinitely activated,but you can set an infinite date(9999/9/9)
 
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=thedeepdeepsky/mathematica_keygen&type=Date)](https://star-history.com/#thedeepdeepsky/mathematica_keygen&Date)
+
+---
+
 
 <img width="950" height="1268" alt="image" src="https://github.com/user-attachments/assets/03646afd-1ec5-4172-a218-2c216bbcc192" />
 
