@@ -6,7 +6,7 @@ Notice: For 14.2,14.3 they can't be infinitely activated,but you can set an infi
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=thedeepdeepsky/mathematica_keygen&type=Date)](https://star-history.com/#thedeepdeepsky/mathematica_keygen&Date)
+[![Star History Chart](https://api.star-history.com/chart?repos=thedeepdeepsky/mathematica_keygen&type=date&legend=top-left)](https://www.star-history.com/#thedeepdeepsky/mathematica_keygen&type=date)
 
 ---
 
